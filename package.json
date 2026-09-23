@@ -1,0 +1,9 @@
+{
+  "name": "target-repo-b",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "moment": "^2.24.0",
+    "react": "^17.0.0"
+  }
+}
